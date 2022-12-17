@@ -15,4 +15,4 @@ Vans Authentic Classic Black/White - 1.450.000 VNĐ
 Vans SK-8 Hi - 1.755.000 VNĐ
 Vans Era 95 DX Fear of God White/Black - 2.200.000 VNĐ
 Cần làm từng trang web cho các đôi giày tổng cộng có 16 đôi.
-Mẫu trang web để làm từng đôi giày 1 trong file chitietsanpham.html
+Mẫu trang web để làm từng đôi giày 1 có trong file chitietsanpham.html
