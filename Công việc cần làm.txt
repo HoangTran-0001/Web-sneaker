@@ -1,9 +1,4 @@
 Làm html còn  lại:
-giay_high_end.html
-giay_high_top.html
-giay_low_top.html
-chucktaylor.html
-classic.html
 eqt.html
 era95.html
 fog1.html
@@ -15,13 +10,3 @@ run.html
 sb.html
 yeezy350.html
 yeezy700.html
-Cần chỉnh sửa và kiểm tra lại:
-af1.html
-chuck70.html
-index.html
-nhomsanpham.html
-chitietnoidung.html
-chitietsanpham.html
-dathang.html
-giohang.html
-Nhớ note "done" vào bên cạnh khi hoàn thành
