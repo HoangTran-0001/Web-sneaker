@@ -6,7 +6,3 @@ jordan1.html
 jordan4.html
 oldskool.html
 -------------------------
-run.html
-sb.html
-yeezy350.html
-yeezy700.html
